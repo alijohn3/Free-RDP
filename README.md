@@ -1,6 +1,7 @@
 ![Windows](http://sekai.cloud/0:/image_2022-05-30_12-43-13.png)
 ![Specification](http://sekai.cloud/0:/image_2022-05-30_12-44-01.png)
 # 1 Hour Free Windows RDP [NGROK](https://ngrok.com/)
+# Don't forget to hit Stars if this tutorial works!🥶
 
 # Tutorials :
 
